@@ -1,2 +1,1 @@
-# Optic Form Reader
 
